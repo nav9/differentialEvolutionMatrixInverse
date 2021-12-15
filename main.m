@@ -1,3 +1,6 @@
+%This project was created for a college assignment.
+%Due to IDE usability reasons, the variable names had to be kept short and un-intuitive.
+
 close all;clear;clc;
 dim = 2;
 pop = 20;
